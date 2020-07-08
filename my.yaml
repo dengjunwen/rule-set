@@ -1,4 +1,6 @@
 payload:
+  # 内容：my
+  # 数量：8条
   -DOMAIN-SUFFIX,wanweipay.com
   -DOMAIN-SUFFIX,tdesktop.com
   -DOMAIN-SUFFIX,atlassian.net
